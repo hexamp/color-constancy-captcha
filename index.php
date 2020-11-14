@@ -25,7 +25,7 @@
 
 <body>
 <?php
-  $image_array = array("test.jpg");
+  $image_array = array("./img/test.jpg");
   if(!isset($_SESSION['image'])){
     $_SESSION['image'] = $image_array[array_rand($image_array)];
   }
@@ -41,7 +41,7 @@
     $_SESSION['image'] = $image_array[array_rand($image_array)];
   }
 
-  printBody("gradientsss");
+  printBody("gradient");
    
 ?>
 
