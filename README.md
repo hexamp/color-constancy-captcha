@@ -10,5 +10,7 @@ If you would like to know the images used in the experiment, please contact the 
 
 # Getting Start
 `$ git clone https://github.com/hexamp/color-constancy-captcha.git`
+
 `$ cd color-constancy-captcha`
+
 `$ php -S localhost:10000`
