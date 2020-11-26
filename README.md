@@ -6,7 +6,14 @@ These programs are prototypes for performance evaluation experiments, rather tha
 # Notice
 This project was developed for the experiments in Paper A.
 
-If you would like to know the images used in the experiment, please contact the author at usuzaki@cs.miyazaki-u.ac.jp.
+If you would like to know the images used in the experiment, please contact the author at hexamp@example.com
+
+# Dependencies
+## Ubuntu
+`$ sudo apt install php-cli php-gd`
+
+## CentOS
+`$ sudo yum install php-cli php-gd`
 
 # Getting Start
 `$ git clone https://github.com/hexamp/color-constancy-captcha.git`
