@@ -4,9 +4,11 @@ A CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans 
 These programs are prototypes for performance evaluation experiments, rather than for preventing actual attacks from bots.
 
 # Notice
-This project was developed for the experiments in Paper A.
+This project was developed for the experiments in Paper A\*.
 
-If you would like to know the images used in the experiment, please contact the author at hexamp@example.com
+If you would like to know the images used in the experiment, please contact the author at hexamp at example.com\*
+
+\* The affiliation has been temporarily removed for the blind review.
 
 # Dependencies
 ## Ubuntu
