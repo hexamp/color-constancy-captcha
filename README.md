@@ -15,7 +15,7 @@ If you would like to know the images used in the experiment, please contact the 
 ## CentOS
 `$ sudo yum install php-cli php-gd`
 
-# Getting Start
+# Getting Started
 `$ git clone https://github.com/hexamp/color-constancy-captcha.git`
 
 `$ cd color-constancy-captcha`
