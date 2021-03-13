@@ -4,11 +4,11 @@ A CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans 
 These programs are prototypes for performance evaluation experiments, rather than for preventing actual attacks from bots.
 
 # Notice
-This project was developed for the experiments in Paper A\*.
+This project was developed for the experiments in [1].
 
-If you would like to know the images used in the experiment, please contact the author at hexamp at example.com\*
+[1] Usuzaki, S., Aburada, K., Yamaba, H. et al. Proposal and evaluation for color constancy CAPTCHA, Artificial Life and Robotics (2021). https://doi.org/10.1007/s10015-021-00679-x
 
-\* The affiliation has been temporarily removed for the blind review.
+If you would like to know the images used in the experiment, please contact the author with their e-mail address on [1].
 
 # Dependencies
 ## Ubuntu
