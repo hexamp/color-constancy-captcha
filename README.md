@@ -8,7 +8,7 @@ This project was developed for the experiments in [1].
 
 [1] Usuzaki, S., Aburada, K., Yamaba, H. et al. Proposal and evaluation for color constancy CAPTCHA, Artificial Life and Robotics (2021). https://doi.org/10.1007/s10015-021-00679-x
 
-If you would like to know the images used in the experiment, please contact the author with their e-mail address on [1].
+If you would like to know the images used in the experiment, please contact the e-mail address on [1] as the author will give you the image URL as much as possible.
 
 # Dependencies
 ## Ubuntu
